@@ -20,7 +20,43 @@ Conocer la relación entre reactancias inductivas y capacitivas de manera fasori
 
 8.5.1. Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/85522189/133191797-2bee06d6-5130-4184-8c56-96abf3dbe317.png)
+a) 2 + 3 j =
+
+![1](https://user-images.githubusercontent.com/85522189/133192158-63e325cb-e0a8-4981-974d-097457bded8b.PNG)
+
+b) -8 + 6.2 j =
+
+![2](https://user-images.githubusercontent.com/85522189/133192164-18c1778a-b026-42cc-b575-ec1d8de75666.PNG)
+
+c) 4.3 – 2.8 j =
+
+![3](https://user-images.githubusercontent.com/85522189/133192170-2e6cd31e-6b0f-4425-9062-974fbd3ed3c9.PNG)
+
+d) -6 – 3.2 j =
+
+![4](https://user-images.githubusercontent.com/85522189/133192174-f3a389d1-f235-4c25-8e91-85406b6c88fe.PNG)
+
+8.5.2 Transforme a su forma rectangular:
+
+a) 36 | -10° =
+
+![5](https://user-images.githubusercontent.com/85522189/133192182-9dc11778-a128-450e-b82e-6f45f88cecae.PNG)
+
+b) 28.7 | 135° =
+
+![6](https://user-images.githubusercontent.com/85522189/133192188-d8f74897-328a-4a89-b5ee-54a66f51b52c.PNG)
+
+c) 11.2 | 28° =
+
+![7](https://user-images.githubusercontent.com/85522189/133192194-8d60b1cc-20a8-4ac5-b098-739d9ac16397.PNG)
+
+d) 45 | -117.9° =
+
+![8](https://user-images.githubusercontent.com/85522189/133192203-a42c8014-bcad-41a9-a84a-750acc3e5510.PNG)
+
+8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+(10 + 3 j)/2j - ( 7 + 2 j )( 3 |-115°) 
+
 
 5.VIDEO
 
