@@ -23,6 +23,47 @@ Para transformar de rectangulares a polares se debe sacar la magnitud fasorial y
 
 Para transformar de polares a rectangulares usamos de igual manera un triangulo en el cual mediante las razones trigonometricas podemos encontrar los valores del valor real y el complejo, utilizando como angulo la posición angular y como hipotenusa la magnitud fasorial.
 
+8.5.1. Transforme a su forma polar:
+
+
+a) 2 + 3 j =
+ 
+ ![image](https://user-images.githubusercontent.com/85320165/133183643-fb420ddf-db55-4c4d-bd32-a947e61d6067.png)
+
+
+b) -8 + 6.2 j =
+
+![image](https://user-images.githubusercontent.com/85320165/133183668-65fb71b2-5399-4dbe-8527-e78a59a9ef9d.png)
+
+
+c) 4.3 – 2.8 j =
+
+![image](https://user-images.githubusercontent.com/85320165/133183703-883b610e-ea62-4a0a-a4bc-5ccf7360d65e.png)
+
+
+d) -6 – 3.2 j = 
+
+![image](https://user-images.githubusercontent.com/85320165/133183726-77265d05-0fc2-40ff-82e7-380d097b47be.png)
+
+8.5.2 Transforme a su forma rectangular:
+a) 36 | -10° =
+
+![image](https://user-images.githubusercontent.com/85320165/133184851-7c1a1006-2b2c-4c91-b059-e40b385fe119.png)
+
+b) 28.7 | 135° =
+
+![image](https://user-images.githubusercontent.com/85320165/133184884-61d26470-c528-4a5f-abf1-1f7e284cf0d4.png)
+
+c) 11.2 | 28° =
+
+![image](https://user-images.githubusercontent.com/85320165/133184920-375f14e6-30a4-42e7-a318-cf5f23659d72.png)
+
+d) 45 | -117.9° =
+
+![image](https://user-images.githubusercontent.com/85320165/133184951-4bc12846-4889-4d38-b9ff-4b25633bebd1.png)
+
+
+
 5.VIDEO
 
 
