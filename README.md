@@ -46,6 +46,7 @@ d) -6 – 3.2 j =
 ![image](https://user-images.githubusercontent.com/85320165/133183726-77265d05-0fc2-40ff-82e7-380d097b47be.png)
 
 8.5.2 Transforme a su forma rectangular:
+
 a) 36 | -10° =
 
 ![image](https://user-images.githubusercontent.com/85320165/133184851-7c1a1006-2b2c-4c91-b059-e40b385fe119.png)
@@ -61,6 +62,25 @@ c) 11.2 | 28° =
 d) 45 | -117.9° =
 
 ![image](https://user-images.githubusercontent.com/85320165/133184951-4bc12846-4889-4d38-b9ff-4b25633bebd1.png)
+
+8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/85320165/133190575-ac692580-74df-499c-9e40-518cacae5f82.png)
+
+![image](https://user-images.githubusercontent.com/85320165/133191037-2b9239d6-a55b-4267-a991-a9903babd885.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/133190657-9f794018-b1cb-4718-9a41-34d925c25606.png)
+
+![image](https://user-images.githubusercontent.com/85320165/133191117-04c37c82-70b0-4e00-aa24-83c1d2b7b97e.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/133190713-271d80ca-9de2-4f27-80f6-d8e9978c86f5.png)
+
+![image](https://user-images.githubusercontent.com/85320165/133191181-b99be954-7422-4662-b7f6-4ea41c6bf8ba.png)
+
+
 
 
 
