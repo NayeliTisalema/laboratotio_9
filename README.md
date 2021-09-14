@@ -61,9 +61,8 @@ d) 45 | -117.9° =
 ![image](https://user-images.githubusercontent.com/85320165/133195069-d81dbcd2-d2c8-49f6-bf3f-2b080bb0ce14.png)
 
 
-![image](https://user-images.githubusercontent.com/85320165/133194990-f1f09cdf-b5d3-40d8-a308-fb9af89df77f.png)
 
-![image](https://user-images.githubusercontent.com/85320165/133195093-3386e37a-24b7-426d-81fa-ed376e982130.png)
+![WhatsApp Image 2021-09-14 at 07 39 35](https://user-images.githubusercontent.com/81887698/133259618-c9991525-14ce-4941-936e-a41b06f0282f.jpeg)
 
 
 ![image](https://user-images.githubusercontent.com/85320165/133194809-24aa433c-5331-4dff-a144-60f044837acb.png)
@@ -78,12 +77,7 @@ A
 ![image](https://user-images.githubusercontent.com/85320165/133195549-25503443-c75b-4e21-bc88-ad091340a3b2.png)
  ![image](https://user-images.githubusercontent.com/85320165/133195569-c4eda601-5d1b-4503-ba5e-9cc9232e195a.png)
 
-B
-
-![WhatsApp Image 2021-09-14 at 07 39 35](https://user-images.githubusercontent.com/81887698/133259618-c9991525-14ce-4941-936e-a41b06f0282f.jpeg)
-
-
-
+C
 C
 
 ![image](https://user-images.githubusercontent.com/85320165/133195777-d92ca757-b80b-4b98-ac8a-13e891a32f14.png)
