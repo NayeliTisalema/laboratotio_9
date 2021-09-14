@@ -18,6 +18,10 @@ Conocer la relación entre reactancias inductivas y capacitivas de manera fasori
 
 3.EXPLICACION DEL PROCEDIMIENTO
 
+8.5.1. Transforme a su forma polar:
+
+![image](https://user-images.githubusercontent.com/85522189/133191797-2bee06d6-5130-4184-8c56-96abf3dbe317.png)
+
 5.VIDEO
 
 
