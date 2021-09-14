@@ -80,8 +80,8 @@ A
 
 B
 
-![image](https://user-images.githubusercontent.com/85320165/133195663-11736dc7-e65c-42ab-82a6-983c36de631c.png)
-![image](https://user-images.githubusercontent.com/85320165/133195677-b7c18104-7e3c-42c9-ac67-00ab8e879125.png)
+![WhatsApp Image 2021-09-14 at 07 39 35](https://user-images.githubusercontent.com/81887698/133259618-c9991525-14ce-4941-936e-a41b06f0282f.jpeg)
+
 
 
 C
